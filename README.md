@@ -167,7 +167,6 @@ This project was developed using the following Python libraries and tools:
 
 👨‍💻 Author
 Developed with ❤️ by Alberto AJ, AI/ML Engineer 
-📌 [Visit my GitHub](https://github.com/AlbertoGhub/AlbertoGhub) • [LinkedIn](https://www.linkedin.com/in/engineeralbertoac/)
 
----
+📌 [Visit my GitHub](https://github.com/AlbertoGhub/AlbertoGhub) • [LinkedIn](https://www.linkedin.com/in/engineeralbertoac/)
 
